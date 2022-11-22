@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhinavBoss
-- 👀 I’m interested in ....
+- 👀 I’m interested in ....Data Science,AI,Automation,Machine Learning
 - 🌱 I’m currently learning ... openCV,cvzone,data science using python 
 - 📫...Linked in:-> https://www.linkedin.com/in/abhinav-varshney-bb9bb7204/
 - 📫...Instagram:-> https://www.instagram.com/abhinavvarshney17/
