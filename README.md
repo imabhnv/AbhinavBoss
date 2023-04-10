@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinavBoss
 - 👀 I’m interested in ....Data Science,AI,Automation,development
-- 🌱 I’m currently learning ... data science,DSA and WEB development
+- 🌱 I’m currently learning ... Data Science,WEB development and DSA.
 - 📫...Linked in:-> https://www.linkedin.com/in/abhinav-varshney-bb9bb7204/
 - 📫...Instagram:-> https://www.instagram.com/abhinavvarshney17/
 <!---
