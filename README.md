@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Abhinav Varshney</h1>
-<div align="center"> <img src="https://github.com/AbhinavBoss/AbhinavBoss/blob/main/LinkedIn%20Banner%202.png"> </div>
+<div align="center"> <img src="https://github.com/imabhnv/AbhinavBoss/blob/main/LinkedIn%20Banner%202.png"> </div>
 <h3 align="center">A passionate😎, Enthusiastic😊, Aspiring🔥...Full Stack Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Full Stack Data Science and Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhinavBoss]
+- 👨‍💻 All of my projects are available at [https://github.com/imabhnv]
 
 - 💬 Ask me about **Related to my profile 🙈😁**
 
@@ -31,7 +31,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinavBoss&show_icons=true&locale=en&layout=compact" alt="AbhinavBoss" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhinavBoss&show_icons=true&locale=en" alt="AbhinavBoss" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imabhnv&show_icons=true&locale=en&layout=compact" alt="AbhinavBoss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imabhnv&show_icons=true&locale=en" alt="AbhinavBoss" /></p>
 
 
