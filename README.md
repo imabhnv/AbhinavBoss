@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Abhinav Varshney</h1>
-<div align="center"> <img src="https://github.com/imabhnv/AbhinavBoss/blob/main/LinkedIn%20Banner%202.png"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQFrjgJgJ-jjsg/profile-displaybackgroundimage-shrink_350_1400/0/1699716986521?e=1713398400&v=beta&t=XuRTkgw997_1auWT-JRGPM2weHUQWKBhUk5wLd6eJP4"> </div>
 <h3 align="center">A passionate😎, Enthusiastic😊, Aspiring🔥...Full Stack Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
